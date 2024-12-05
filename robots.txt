@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Disallow: /healthy-habits-for-a-vibrant-lifestyle-simple-changes-with-big-impact.html
