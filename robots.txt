@@ -1,3 +1,2 @@
 User-agent: *
-Allow: https://dcs-sf.github.io/exploring-role-nutrition-athletic-training-performance.html
-Disallow: /
+Disallow: https://dcs-sf.github.io/exploring-role-nutrition-athletic-training-performance.html
